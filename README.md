@@ -32,7 +32,7 @@
 1. A file is created.
 2. Right click on it and the terminal opens.
 3. The project is copied by typing the following text into the terminal.
-    `git clone https://github.com/furkanpamuk/Hepsiburada_E-Commerce_Clone.git`
+    `git clone https://github.com/furkanpamuk/Tasks-PatikaHTML.git`
 4. The project is opened with Visual Studio Code by typing the following text into the terminal.
     `code .`
 
